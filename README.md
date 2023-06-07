@@ -1,7 +1,9 @@
-## Curso_python
+Curso_python
+<br>
 
 <h1 align="center"> TPO_codo_a_codo </h1>
-***
+<br>
+
 #TPO Desarrollo Web
 HTML, CSS y Javascript
 ***
