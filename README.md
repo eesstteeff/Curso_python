@@ -7,8 +7,10 @@ HTML, CSS y Javascript
 ***
 ### Consigna
 El TPO deberá cumplir con los siguientes requisitos:
+<br>
 ● Poseer al menos 4 páginas html, siendo su temática libre. En caso de ser un Sitio
 Web estilo One Page, el mismo deberá tener al menos 4 secciones.
+<br>
 ● Utilizar etiquetas semánticas para estructurar el sitio.
 ● Contener un formulario de contacto con validación realizada mediante Javascript.
 Opcional: el formulario podrá enviar un email utilizando algún servicio externo
