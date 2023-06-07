@@ -3,7 +3,8 @@
 
 <h1 align="center"> TPO_codo_a_codo </h1>
 <br>
-![codoacodo](https://user-images.githubusercontent.com/83146564/137408912-013f0d0c-37d1-4dc2-a1b5-77356c1003f3.png)
+![codoacodo](![codoacodo](https://github.com/eesstteeff/Curso_python/assets/87334207/e8865190-3eb9-47d0-87ec-c050b9f3e4f2)
+)
 
 TPO Desarrollo Web
 HTML, CSS y Javascript
