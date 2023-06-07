@@ -3,6 +3,7 @@
 
 <h1 align="center"> TPO_codo_a_codo </h1>
 <br>
+![codoacodo](https://user-images.githubusercontent.com/83146564/137408912-013f0d0c-37d1-4dc2-a1b5-77356c1003f3.png)
 
 TPO Desarrollo Web
 HTML, CSS y Javascript
@@ -37,7 +38,8 @@ momento de entregar el TPO.
 página del formulario del sitio web. No se aceptarán proyectos desarrollados
 íntegramente en algún Framework de CSS (Bootstrap, Materialize, Tailwind, etc.) o
 similar.
-***
+<br>
+El proyecto es 
 
 <h4 align="center"> :star: Resolución final del TP :star:
 <br>
