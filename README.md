@@ -3,7 +3,7 @@
 
 <h1 align="center"> TPO_codo_a_codo </h1>
 <br>
-C:\Users\Windows 10\Downloads\curso_python\assets\img\137408912-013f0d0c-37d1-4dc2-a1b5-77356c1003f3.png
+
 
 
 TPO Desarrollo Web
