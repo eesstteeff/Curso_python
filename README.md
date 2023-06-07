@@ -3,7 +3,7 @@
 
 <h1 align="center"> TPO_codo_a_codo </h1>
 <br>
-![137408912-013f0d0c-37d1-4dc2-a1b5-77356c1003f3](https://github.com/eesstteeff/Curso_python/assets/87334207/eb4967e7-6f52-4cc6-af3a-56dd0863b732)
+(https://github.com/eesstteeff/Curso_python/assets/87334207/eb4967e7-6f52-4cc6-af3a-56dd0863b732)
 
 
 TPO Desarrollo Web
