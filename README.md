@@ -41,7 +41,8 @@ página del formulario del sitio web. No se aceptarán proyectos desarrollados
 íntegramente en algún Framework de CSS (Bootstrap, Materialize, Tailwind, etc.) o
 similar.
 <br>
-El proyecto es 
+El proyecto que llevamos a cabo se trata de un pagina para Diseño Web
+<br>
 
 <h4 align="center"> :star: Resolución final del TP :star:
 <br>
